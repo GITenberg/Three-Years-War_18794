@@ -1,0 +1,34 @@
+_repo: Three-Years-War_18794
+_version: 0.1.0
+alternative_title: Strijd tusschen Boer en Brit. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Wet, Christiaan Rudolf
+    alias: Wet, Christiaan Rudolf De
+    birthdate: 1854
+    deathdate: 1922
+    gutenberg_agent_id: '8254'
+    url: http://www.gutenberg.org/2009/agents/8254
+    wikipedia: http://en.wikipedia.org/wiki/Christiaan_De_Wet
+description: ''
+gutenberg_bookshelf: Boer War
+gutenberg_issued: '2006-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18794'
+  lccn: 02028750
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South African War, 1899-1902 -- Personal narratives'
+- !lcsh 'De Wet, Christiaan Rudolf, 1854-1922'
+- !lcc 'DT'
+- !lcsh 'Transvaal (South Africa) -- History -- 1880-1910'
+- !lcsh 'South Africa -- Biography'
+title: Three Years' War
+url: http://www.gutenberg.org/ebooks/18794
