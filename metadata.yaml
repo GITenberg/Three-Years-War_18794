@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8254
     wikipedia: http://en.wikipedia.org/wiki/Christiaan_De_Wet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18794#Three-Years-War
 gutenberg_bookshelf: Boer War
 gutenberg_issued: '2006-07-08'
 gutenberg_type: Text
